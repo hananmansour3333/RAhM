@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>المنصات السحابية ومشاركة الملفات</title>
+<style>
+body{font-family:'Segoe UI',Tahoma,sans-serif;background:#eef2f7;margin:0;padding:20px;color:#222}
+.container{max-width:800px;margin:auto;background:white;border-radius:16px;overflow:hidden;box-shadow:0 10px 30px rgba(0,0,0,.1)}
+.header{background:linear-gradient(135deg,#2563eb,#0ea5e9);color:white;padding:30px 25px;text-align:center}
+.header h1{margin:0 0 15px;font-size:26px;line-height:1.4}
+.header p{margin:5px 0;font-size:15px;opacity:.95}
+.content{padding:25px}
+h2{color:#2563eb;border-bottom:2px solid #e5e7eb;padding-bottom:8px;margin-top:30px}
+h3{color:#0f172a;margin-top:22px}
+p{line-height:1.9;font-size:16px}
+.card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:16px;margin:15px 0}
+table{width:100%;border-collapse:collapse;margin:15px 0;font-size:15px}
+th{background:#2563eb;color:white;padding:12px}
+td{border:1px solid #ddd;padding:10px;text-align:center}
+tr:nth-child(even){background:#f1f5f9}
+ul{line-height:2}
+.footer{background:#0f172a;color:white;text-align:center;padding:15px;font-size:14px}
+.badge{display:inline-block;background:white;color:#2563eb;padding:5px 12px;border-radius:20px;font-weight:bold;font-size:13px;margin-top:10px}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+<span class="badge">بحث دراسي - تاسك</span>
+<h1>المنصات السحابية ومشاركة الملفات</h1>
+<p>اسم الطالبة: Rahma Mohamed AboElmaaty Hafaz Elbana</p>
+<p>الرقم الجامعي: 2502355</p>
+<p>المعهد: معهد الدلتا العالي لنظم المعلومات</p>
+</div>
+<div class="content">
+<h2>المقدمة</h2>
+<p>أصبحت المنصات السحابية من أهم وسائل التكنولوجيا الحديثة، حيث تساعد المستخدمين على تخزين الملفات والوصول إليها من أي مكان باستخدام الإنترنت. كما توفر إمكانية مشاركة الملفات والتعاون بين الأفراد بسهولة.</p>
+
+<h2>عرض الموضوع</h2>
+<h3>أولاً: مفهوم التخزين السحابي</h3>
+<p>التخزين السحابي هو خدمة تتيح للمستخدم حفظ الملفات والصور والمستندات على الإنترنت بدلاً من تخزينها على جهاز الكمبيوتر أو الهاتف فقط، ويمكن الوصول إليها في أي وقت ومن أي جهاز متصل بالإنترنت.</p>
+
+<div class="card">
+<h3>ثانياً: Google Drive</h3>
+<p>Google Drive هو أحد أشهر خدمات التخزين السحابي التي تقدمها شركة Google، ويتيح تخزين الملفات وتنظيمها ومشاركتها مع الآخرين، كما يمكن استخدامه مع تطبيقات مثل Google Docs و Google Sheets.</p>
+</div>
+
+<div class="card">
+<h3>ثالثاً: OneDrive</h3>
+<p>OneDrive هو خدمة تخزين سحابي تقدمها شركة Microsoft، وتساعد المستخدمين على حفظ الملفات ومزامنتها ومشاركتها، كما تتكامل مع برامج Microsoft Office مثل Word و Excel.</p>
+</div>
+
+<h2>جدول مقارنة بين Google Drive و OneDrive</h2>
+<table>
+<tr><th>وجه المقارنة</th><th>Google Drive</th><th>OneDrive</th></tr>
+<tr><td>الشركة</td><td>Google</td><td>Microsoft</td></tr>
+<tr><td>الاستخدام</td><td>تخزين ومشاركة الملفات</td><td>تخزين ومشاركة الملفات</td></tr>
+<tr><td>التطبيقات المرتبطة</td><td>Google Docs و Sheets</td><td>Word و Excel</td></tr>
+<tr><td>إمكانية الوصول</td><td>من خلال الإنترنت</td><td>من خلال الإنترنت</td></tr>
+</table>
+
+<h2>أهمية المنصات السحابية</h2>
+<ul>
+<li>حفظ الملفات من الضياع.</li>
+<li>الوصول إلى الملفات من أي مكان.</li>
+<li>سهولة مشاركة الملفات مع الآخرين.</li>
+<li>توفير مساحة على الأجهزة.</li>
+<li>تسهيل العمل الجماعي.</li>
+</ul>
+
+<h2>الخاتمة</h2>
+<p>في النهاية، تعد المنصات السحابية من الأدوات المهمة في حياتنا اليومية والدراسة والعمل، لأنها توفر طريقة سهلة لتخزين الملفات ومشاركتها. ويعتبر Google Drive و OneDrive من أشهر هذه المنصات وأكثرها استخداماً.</p>
+
+<h2>المراجع</h2>
+<ul>
+<li>الموقع الرسمي لـ Google Drive</li>
+<li>الموقع الرسمي لـ Microsoft OneDrive</li>
+<li>مركز مساعدة Google Drive</li>
+</ul>
+</div>
+<div class="footer">Rahma Mohamed - 2502355 | معهد الدلتا العالي لنظم المعلومات</div>
+</div>
+</body>
+</html>
